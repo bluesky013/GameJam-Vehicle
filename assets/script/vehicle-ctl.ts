@@ -82,7 +82,7 @@ const camera_preset = {
         orientation: new Quat(0, 1, 0, 0),
     },
     'inside': {
-        position: new Vec3(0, 1, 0),
+        position: new Vec3(0, 1.3, 0.5),
         orientation: new Quat(),
     },
 };
