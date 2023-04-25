@@ -77,5 +77,8 @@
         }
       }
     }
+  },
+  "textureCompressConfig": {
+    "customConfigs": {}
   }
 }
